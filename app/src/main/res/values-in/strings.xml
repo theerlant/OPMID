@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPMID</string>
+    <string name="app_abbreviation">Operasi Pecahan Mika Digital</string>
+    <string name="greeting_morning">Selamat Pagi.\nSiap menuntaskan soal pecahan?</string>
+    <string name="greeting_afternoon">Selamat Siang.\nAyo menyelesaikan quiz pecahan!</string>
+    <string name="greeting_evening">Selamat sore.\nMenikmati senja sambil mengasah kemampuan pecahan</string>
+    <string name="greeting_night">Selamat malam.\nTingkatkan kemampuan pecahan sebelum tidur</string>
+    <string name="digital_mica">Mika Digital</string>
+    <string name="quiz">Quiz Pecahan</string>
+    <string name="history">Riwayat</string>
+    <plurals name="history_count">
+        <item quantity="zero">Riwayat kosong</item>
+        <item quantity="other">%d riwayat</item>
+    </plurals>
+    <string name="language">Bahasa</string>
+    <string name="lang_in">Indonesia</string>
+    <string name="lang_en">Inggris</string>
+    <string name="theme">Tema</string>
+    <string name="theme_auto">Auto</string>
+    <string name="theme_bright">Cerah</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="sound_effect">Efek Suara</string>
+    <string name="feedback">Getaran</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="about_desc">TODO</string>
+</resources>
